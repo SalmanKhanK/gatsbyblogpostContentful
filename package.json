@@ -16,7 +16,14 @@
   },
   "license": "0BSD",
   "dependencies": {
+    "@contentful/rich-text-react-renderer": "^14.1.2",
+    "@material-ui/core": "^4.11.3",
+    "dotenv": "^8.2.0",
+    "firebase": "^8.3.2",
     "gatsby": "^3.1.2",
+    "gatsby-plugin-firebase": "^0.2.0-beta.4",
+    "gatsby-plugin-material-ui": "^3.0.0",
+    "gatsby-source-contentful": "^5.2.0",
     "react": "^17.0.1",
     "react-dom": "^17.0.1"
   }

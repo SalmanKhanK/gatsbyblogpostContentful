@@ -1,0 +1,23 @@
+.linkStyle{
+    text-decoration: none;
+    margin-top: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    
+}
+.img{
+    height: 400px;
+    width: 600px;
+}
+@media screen and (max-width: 700px) {
+    .img {
+        width: 100% !important;
+        margin: auto !important;
+        background-color: chartreuse;
+    }
+  }
+  .heading{
+      text-decoration: underline;
+  }
