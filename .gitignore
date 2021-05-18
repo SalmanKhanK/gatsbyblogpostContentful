@@ -1,5 +1,8 @@
 node_modules/
+# production
+/build
+/.netlify
 .cache/
 public
 .env
-/.netlify
+
